@@ -1,0 +1,10 @@
+{
+    "data_pie" : [
+    {"value":20, "name":"梦拓答辩"},
+    {"value":20, "name":"日常健身"},
+    {"value":15, "name":"echarts"},
+    {"value":35, "name":"vue"},
+    {"value":20, "name":"同学聚会"},
+    {"value":10, "name":"HTML"}
+    ]
+}
